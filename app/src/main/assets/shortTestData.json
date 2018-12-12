@@ -1,0 +1,119 @@
+{
+  "type": "champion",
+  "format": "standAloneComplex",
+  "version": "8.24.1",
+  "data": {
+    "Aatrox": {
+      "version": "8.24.1",
+      "id": "Aatrox",
+      "key": "266",
+      "name": "Aatrox",
+      "title": "the Darkin Blade",
+      "image": {
+        "full": "Aatrox.png",
+        "sprite": "champion0.png",
+        "group": "champion",
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Ahri": {
+      "version": "8.24.1",
+      "id": "Ahri",
+      "key": "103",
+      "name": "Ahri",
+      "title": "the Nine-Tailed Fox",
+      "image": {
+        "full": "Ahri.png",
+        "sprite": "champion0.png",
+        "group": "champion",
+        "x": 48,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Akali": {
+      "version": "8.24.1",
+      "id": "Akali",
+      "key": "84",
+      "name": "Akali",
+      "title": "the Rogue Assassin",
+      "image": {
+        "full": "Akali.png",
+        "sprite": "champion0.png",
+        "group": "champion",
+        "x": 96,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Alistar": {
+      "version": "8.24.1",
+      "id": "Alistar",
+      "key": "12",
+      "name": "Alistar",
+      "title": "the Minotaur",
+      "image": {
+        "full": "Alistar.png",
+        "sprite": "champion0.png",
+        "group": "champion",
+        "x": 144,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Amumu": {
+      "version": "8.24.1",
+      "id": "Amumu",
+      "key": "32",
+      "name": "Amumu",
+      "title": "the Sad Mummy",
+      "image": {
+        "full": "Amumu.png",
+        "sprite": "champion0.png",
+        "group": "champion",
+        "x": 192,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Anivia": {
+      "version": "8.24.1",
+      "id": "Anivia",
+      "key": "34",
+      "name": "Anivia",
+      "title": "the Cryophoenix",
+      "image": {
+        "full": "Anivia.png",
+        "sprite": "champion0.png",
+        "group": "champion",
+        "x": 240,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      }
+    },
+    "Zyra": {
+      "version": "8.24.1",
+      "id": "Zyra",
+      "key": "143",
+      "name": "Zyra",
+      "title": "Rise of the Thorns",
+      "image": {
+        "full": "Zyra.png",
+        "sprite": "champion4.png",
+        "group": "champion",
+        "x": 48,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      }
+    }
+  }
+}
